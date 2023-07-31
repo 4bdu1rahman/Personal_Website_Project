@@ -1,0 +1,42 @@
+div{
+    color:white;
+    font-size: 32px;
+    padding: 5px;
+
+}
+nav{
+    background:black;
+    display:flex;
+    justify-content: space-around;
+}
+
+.items:hover{
+background-color: grey;
+opacity:0.5;
+}
+
+about {
+    display:flex;
+    justify-self: space-around;
+    color:black;
+    background: white;
+    font-size:40px;
+    font-family: Garamond;
+    text-align: center;
+    
+}
+
+Program1 {
+    display:flex;
+    justify-content: center;
+}
+
+Program2 {
+    display:flex;
+    justify-content: center;
+}
+text {
+    font-size: 20px;
+    text-align:center;
+    font-family: monospace;
+}
